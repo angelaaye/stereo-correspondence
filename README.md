@@ -1,4 +1,4 @@
-# stereocorrespondence
+# stereo-correspondence
 This repo uses stereo vision to provide a dense range (depth) and appearance information. Given an image pair, the functions will produce a disparity map. 
 
 ## Files
